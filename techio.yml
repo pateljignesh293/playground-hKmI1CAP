@@ -1,0 +1,5 @@
+title: Simple PHP template
+
+plan:
+  - title: PHP Snippet
+    statement: statement.md
